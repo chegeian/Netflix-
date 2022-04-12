@@ -191,8 +191,8 @@ img{
 
 .card-0{
     position: relative;
-    display: inline-grid;
-    grid-template-columns: 40% 50%;
+    display:inline-grid;
+    grid-template-columns: 50%;
     text-align: left;
     align-items: center;
     padding: 25px 45px 50px;
